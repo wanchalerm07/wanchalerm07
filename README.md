@@ -1,4 +1,4 @@
-สร้างเว็บไซต์​- 👋 Hi, I’m @wanchalerm07
+- 👋 Hi, I’m @wanchalerm07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,3 +10,4 @@
 wanchalerm07/wanchalerm07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-สร้างเว็บไซต์​
